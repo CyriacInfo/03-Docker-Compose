@@ -1,3 +1,3 @@
-#start server-dev :
+#start docker server
 
 - npm run build
