@@ -1,0 +1,12 @@
+{
+  "name": "03-docker-dockercompose",
+  "version": "1.0.0",
+  "description": "- docker compose -f docker-compose.dev.yml up --build",
+  "main": "index.js",
+  "scripts": {
+    "build": "docker compose -f docker-compose.dev.yml up --build",
+    "start": "docker compose -f docker-compose.dev.yml up"
+  },
+  "author": "",
+  "license": "ISC"
+}
