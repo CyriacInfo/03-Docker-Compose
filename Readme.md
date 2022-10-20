@@ -1,3 +1,3 @@
 #start server-dev :
 
-- npm start
+- npm run build
